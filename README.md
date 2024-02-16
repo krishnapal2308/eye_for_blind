@@ -2,7 +2,7 @@
 
 ### Problem Statement:
 
-In this capstone project, the objective is to create a deep learning model capable of explaining the contents of an image in the form of speech through caption generation. This model will utilize an attention mechanism and be trained on the Flickr8K dataset. The aim is to develop a solution catered towards aiding visually impaired individuals, allowing them to comprehend images through speech-generated captions.
+In this project, the objective is to create a deep learning model capable of explaining the contents of an image in the form of speech through caption generation. This model will utilize an attention mechanism and be trained on the Flickr8K dataset. The aim is to develop a solution catered towards aiding visually impaired individuals, allowing them to comprehend images through speech-generated captions.
 
 This application involves a combination of deep learning and natural language processing techniques. The features of an image will be extracted by a convolutional neural network (CNN)-based encoder, and these features will then be decoded by a recurrent neural network (RNN) model to generate captions.
 
