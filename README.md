@@ -1,4 +1,4 @@
-# Eye For Blind
+# Eye For Blind 👁️‍🗨️
 
 ### Problem Statement:
 
@@ -22,5 +22,3 @@ The dataset (Flickr8K) is sourced from Kaggle and consists of sentence-based ima
 
 ### Demo Link:
 <a href="https://huggingface.co/spaces/krishnapal2308/eye_for_blind" target="_blank">View Demo</a>
-
-
